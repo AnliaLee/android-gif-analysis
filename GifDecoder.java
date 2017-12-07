@@ -1,7 +1,4 @@
-package com.anlia.bauzgif.reverse.utils;
-
 import android.graphics.Bitmap;
-
 import java.io.InputStream;
 import java.util.Vector;
 
