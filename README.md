@@ -1,5 +1,4 @@
 # android-gif-analysis
->android gif编解码的源码分析，附有详细的源码分析博客进行讲解
 
 #### [GIF解码 GifDecoder](https://github.com/AnliaLee/android-gif-analysis/blob/master/GifDecoder.java)
 
